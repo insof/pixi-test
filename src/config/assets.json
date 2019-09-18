@@ -1,0 +1,151 @@
+{
+    "images": [
+        {
+            "name": "blank-card-md",
+            "src": "blank-card-md.png",
+            "width": 230,
+            "height": 297,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "back",
+            "src": "back.jpg",
+            "width": 852,
+            "height": 480,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "unicorn-back",
+            "src": "unicorn-back.jpg",
+            "width": 800,
+            "height": 600,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "button",
+            "src": "button.png",
+            "width": 600,
+            "height": 192,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "milky-way",
+            "src": "milky-way.jpg",
+            "width": 960,
+            "height": 539,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "back_button",
+            "src": "back_button.png",
+            "width": 380,
+            "height": 240,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "UrbanStories/Bench",
+            "src": "UrbanStories/Bench.png",
+            "width": 256,
+            "height": 256,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "UrbanStories/Bicycle",
+            "src": "UrbanStories/Bicycle.png",
+            "width": 256,
+            "height": 256,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "UrbanStories/Building",
+            "src": "UrbanStories/Building.png",
+            "width": 256,
+            "height": 256,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "UrbanStories/Car",
+            "src": "UrbanStories/Car.png",
+            "width": 256,
+            "height": 256,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "UrbanStories/Cart",
+            "src": "UrbanStories/Cart.png",
+            "width": 256,
+            "height": 256,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "UrbanStories/Coffee",
+            "src": "UrbanStories/Coffee.png",
+            "width": 256,
+            "height": 256,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "UrbanStories/Headphones",
+            "src": "UrbanStories/Headphones.png",
+            "width": 256,
+            "height": 256,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "UrbanStories/House",
+            "src": "UrbanStories/House.png",
+            "width": 256,
+            "height": 256,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "UrbanStories/Map",
+            "src": "UrbanStories/Map.png",
+            "width": 256,
+            "height": 256,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "UrbanStories/Spray",
+            "src": "UrbanStories/Spray.png",
+            "width": 256,
+            "height": 256,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        }
+    ],
+    "sounds": [
+       
+    ]
+}
